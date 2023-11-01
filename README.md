@@ -12,7 +12,7 @@ Here are the corrected outlines with improved grammar and additional explanation
    - *Explanation*: This project seeks to modernize the process by replacing the conventional paper-based request form, which is currently in widespread use across educational institutions.
 
 3. **Technology Stack**:
-   - *Used Technologies*: The technology stack for this project will include Django for the backend and Next.js for the frontend.
+   - *Used Technologies*: The technology stack for this project will include Django for the backend, Next.js for the frontend, and socket.io for real-time communication with the admin..
 
    - *Explanation*: Django, a powerful web framework in Python, will be employed to establish the foundational backend infrastructure. Meanwhile, Next.js, a popular React framework, will be utilized to construct the client-side infrastructure for a seamless user experience.
 
