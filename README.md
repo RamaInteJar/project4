@@ -29,3 +29,6 @@ Here are the corrected outlines with improved grammar and additional explanation
    - *Admin Model*: This model encompasses the functionalities and data relevant to the administrative aspects of the application.
 
    - *Explanation*: The project will incorporate two distinct models: the Client Model, which will handle features and data related to the user interface, and the Admin Model, which will manage functionalities specific to administrative tasks within the application. These models are integral to ensuring a streamlined and efficient operation of the time-off faculty request form.
+  
+6. Trello link
+   -* https://trello.com/b/bosIWbZG/faculty-to
